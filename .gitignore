@@ -1,0 +1,27 @@
+﻿# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+mininas
+
+# Test/coverage
+*.test
+*.out
+coverage.*
+
+# Go workspace
+go.work
+go.work.sum
+
+# Vendor
+vendor/
+
+# Project-specific
+*.db
+.env
+config.local.yaml
+
+# IDE
+.vscode/
+.idea/
