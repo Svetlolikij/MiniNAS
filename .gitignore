@@ -3,7 +3,7 @@
 *.dll
 *.so
 *.dylib
-mininas
+/mininas
 
 # Test/coverage
 *.test
